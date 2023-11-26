@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash2866&label=Profile%20views&color=0e75b6&style=flat" alt="akash2866" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash2866&theme=dark_blue" alt="akash2866" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash2866&theme=Matrix" alt="akash2866" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
